@@ -8,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
    registerMode = false;
 
+   constructor() {}
+
   ngOnInit(): void {
   }
 
